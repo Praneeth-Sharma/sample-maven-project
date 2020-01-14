@@ -18,7 +18,7 @@
 
 	<properties>
 		<pkg.code>4</pkg.code>
-		<pkg.title>simple-java-web</pkg.title>
+		<pkg.title>samplejavaweb</pkg.title>
 		<pkg.version.string>0.0.1-SNAPSHOT</pkg.version.string>
 		<pkg.version>0.0.1-SNAPSHOT</pkg.version>
 		<pkg.description><!-- Give some description about this package --></pkg.description>
