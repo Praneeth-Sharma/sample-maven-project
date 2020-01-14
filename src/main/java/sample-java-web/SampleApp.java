@@ -1,4 +1,4 @@
-package sample-java-web;
+package samplejavaweb;
 
 public class SampleApp {
 
