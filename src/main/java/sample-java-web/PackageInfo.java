@@ -1,4 +1,4 @@
-package sample-java-web;
+package samplejavaweb;
 
 import java.io.IOException;
 import java.io.InputStream;
