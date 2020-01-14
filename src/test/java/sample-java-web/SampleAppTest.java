@@ -1,4 +1,4 @@
-package sample-java-web;
+package samplejavaweb;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
