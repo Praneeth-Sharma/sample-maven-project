@@ -44,12 +44,18 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://3.87.134.53:8081/repository/maven-releases</url>
+      <url>http://54.83.151.186:8081/repository/maven-releases</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Snapshot</name>
-      <url>http://3.87.134.53:8081/repository/maven-snapshots</url>
+      <url>http://<servers>
+    <server>
+      <id>nexus</id>
+      <username>admin</username>
+      <password>admin123</password>
+    </server>
+  </servers>54.83.151.186:8081/repository/maven-snapshots</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
