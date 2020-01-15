@@ -40,7 +40,7 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
+<distributionManagement>
     <repository>
       <id>nexus</id>
       <name>Releases</name>
@@ -51,5 +51,5 @@
       <name>Snapshot</name>
       <url>http://54.224.210.197:8081/repository/maven-snapshots</url>
     </snapshotRepository>
-  </distributionManagement>
+</distributionManagement>
 </project>
