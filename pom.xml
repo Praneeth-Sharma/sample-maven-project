@@ -49,13 +49,7 @@
     <snapshotRepository>
       <id>nexus</id>
       <name>Snapshot</name>
-      <url>http://<servers>
-    <server>
-      <id>nexus</id>
-      <username>admin</username>
-      <password>admin123</password>
-    </server>
-  </servers>54.83.151.186:8081/repository/maven-snapshots</url>
+      <url>http://54.83.151.186:8081/repository/maven-snapshots</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
